@@ -1,0 +1,1 @@
+web: java -war target/AppMaven-1.0-SNAPSHOT.war
